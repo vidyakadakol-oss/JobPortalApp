@@ -1,1 +1,1 @@
-print("Job Portal App Running 🚀")
+print("PR Test Successful 🚀")
